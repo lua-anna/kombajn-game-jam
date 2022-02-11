@@ -1,1 +1,1 @@
-# Koombajn GameJam w Gdańsku - webpage
+# Kombajn GameJam w Gdańsku - webpage
